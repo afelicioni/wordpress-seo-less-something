@@ -2,7 +2,7 @@
 Turning off some strings from WordPress response code, particularly useful when projects go live
 
 ## Scenario
-Using WordPress with the awesome WordPress SEO plugin by Yoast, you may feel like unpleasant about comments and messages in the header section of HTML page generated for your projects.
+Using WordPress with the awesome WordPress SEO plugin by Yoast, you may feel like unpleasant about comments and messages in the header section of HTML page generated for your projects, exposing used plugin family and version.
 Since they have been designed for debug purposes, it's not needed to have them always on the output.
 
 ## Requirements
