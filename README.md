@@ -1,5 +1,5 @@
 # wordpress-seo-less-something
-Turning off some strings from WordPress response code, particularly when projects are live
+Turning off some strings from WordPress response code, particularly useful when projects go live
 
 ## Scenario
 Using WordPress with the awesome WordPress SEO plugin by Yoast, you may feel like unpleasant about comments and messages in the header section of HTML page generated for your projects.
